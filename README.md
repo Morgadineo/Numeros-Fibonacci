@@ -1,7 +1,5 @@
 # Numeros-Fibonacci
-    A sequência de Fibonacci é uma sequência de números, onde o número 1 é o primeiro e segundo termo da ordem e os demais são originados pela soma de seus antecessores.
-
-	Dentre todos os mistérios da Matemática, a sequência de Fibonacci é considerada uma das mais fascinantes descobertas da história. A sequência de números proposta pelo matemático italiano Leonardo de Pisa, mais conhecido como Fibonacci, possui o numeral 1 como o primeiro e o segundo termo da ordem, e os elementos seguintes são originados pela soma de seus dois antecessores, observe:
+    A sequência de Fibonacci é uma sequência de números, onde o número 1 é o primeiro e segundo termo da ordem e os demais são originados pela soma de seus antecessores. Dentre todos os mistérios da Matemática, a sequência de Fibonacci é considerada uma das mais fascinantes descobertas da história. A sequência de números proposta pelo matemático italiano Leonardo de Pisa, mais conhecido como Fibonacci, possui o numeral 1 como o primeiro e o segundo termo da ordem, e os elementos seguintes são originados pela soma de seus dois antecessores, observe:
 
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181...
 
